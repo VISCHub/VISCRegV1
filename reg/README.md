@@ -1,6 +1,6 @@
 # Instruction
 
-Put file named `YOUR_GITHUB_ID.dat` with the following content:
+Create a PR and put file named `YOUR_GITHUB_ID.dat` with the following content:
 
 ```
 SHA-256:(SHA-256(VISC:YOUR_GITHUB_ID_IN_LOWER_CASE))
