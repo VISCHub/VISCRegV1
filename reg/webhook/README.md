@@ -13,3 +13,11 @@ https://spdx.org/licenses/
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference#node-version-amp-package-management
 
 http://reverentgeek.com/hosting-node-js-on-microsoft-azure/
+
+https://github.com/emn178/js-sha3
+https://www.npmjs.com/package/sha.js
+
+```
+npm install js-sha3 --save
+npm install sha.js --save
+```
