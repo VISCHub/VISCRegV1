@@ -21,3 +21,5 @@ https://www.npmjs.com/package/sha.js
 npm install js-sha3 --save
 npm install sha.js --save
 ```
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-fsharp
