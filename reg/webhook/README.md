@@ -5,3 +5,11 @@ https://business.tutsplus.com/articles/beginners-guide-to-disposable-email-addre
 
 https://developer.github.com/v3/pulls/#list-pull-requests-files
 curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com/repos/VISCHub/VSCIRegV1/pulls/7/files
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
+
+https://spdx.org/licenses/
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference#node-version-amp-package-management
+
+http://reverentgeek.com/hosting-node-js-on-microsoft-azure/
