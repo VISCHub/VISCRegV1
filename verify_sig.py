@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2.7
 
 # Make sure you have pysha3 installed
 # pip install -U pysha3
