@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# This is for python 2
+# This is for python 3
 
 # Make sure you have pysha3 installed
 # pip install -U pysha3
@@ -14,7 +14,8 @@ HASH_FUNCS = {
 
 def get_hashes(msg):
     for h in ['SHA-256', 'KECCAK-256']:
-        out = '%s:%s' % (h, HASH_FUNCS[h](msg))
+        msg_bytes = msg.encode('utf-8')
+        out = '%s:%s' % (h, HASH_FUNCS[h](msg_bytes))
         print(out)
 
 if __name__ == '__main__':
